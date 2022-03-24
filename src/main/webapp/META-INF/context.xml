@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context>
+	<!-- Specify a JDBC datasource -->
+	<Resource name="jdbc/emsDB" auth="Container"
+			type="javax.sql.DataSource" username="root" password="Susmith@1"
+			driverClassName="com.mysql.cj.jdbc.Driver"
+			url="jdbc:mysql://localhost:3306/ems"
+			maxActive="10" maxIdle="4" /> 
+</Context>

@@ -1,0 +1,3 @@
+com\sapient\aem\service\UserServiceImplTest.class
+com\sapient\aem\web\LoginServletTest.class
+com\sapient\aem\model\UserTest.class
